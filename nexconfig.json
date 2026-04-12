@@ -1,0 +1,11 @@
+{
+    "setup": {
+        "scripts": [
+            "bun install express body-parser"
+        ],
+        "files": {
+            "database": ".",
+            "routes": "."
+        }
+    }
+}
