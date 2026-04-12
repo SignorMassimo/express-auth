@@ -4,8 +4,8 @@
             "bun install express body-parser"
         ],
         "files": {
-        "database": ".",
-        "routes": "."
+            "database": ".",
+            "routes": "."
         }
     }
 }
